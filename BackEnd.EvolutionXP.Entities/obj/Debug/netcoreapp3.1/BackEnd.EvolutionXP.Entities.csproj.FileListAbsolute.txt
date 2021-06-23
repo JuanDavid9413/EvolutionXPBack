@@ -1,0 +1,9 @@
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.deps.json
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.csprojAssemblyReference.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.AssemblyInfoInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.AssemblyInfo.cs
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Entities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.pdb

@@ -1,0 +1,12 @@
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.deps.json
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.csprojAssemblyReference.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.AssemblyInfoInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.AssemblyInfo.cs
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.csproj.CopyComplete
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Utilities\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.pdb

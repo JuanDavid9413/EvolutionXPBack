@@ -1,0 +1,16 @@
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.deps.json
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.csprojAssemblyReference.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.AssemblyInfoInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.AssemblyInfo.cs
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.csproj.CoreCompileInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.csproj.CopyComplete
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Business\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Business.pdb

@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Business\\BackEnd.EvolutionXP.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Business\\BackEnd.EvolutionXP.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Business\\BackEnd.EvolutionXP.Business.csproj",
+        "projectName": "BackEnd.EvolutionXP.Business",
+        "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Business\\BackEnd.EvolutionXP.Business.csproj",
+        "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj"
+              },
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\BackEnd.EvolutionXP.Repository.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\BackEnd.EvolutionXP.Repository.csproj"
+              },
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj",
+        "projectName": "BackEnd.EvolutionXP.Entities",
+        "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj",
+        "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\BackEnd.EvolutionXP.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\BackEnd.EvolutionXP.Repository.csproj",
+        "projectName": "BackEnd.EvolutionXP.Repository",
+        "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\BackEnd.EvolutionXP.Repository.csproj",
+        "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj"
+              },
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj",
+        "projectName": "BackEnd.EvolutionXP.Utilities",
+        "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\BackEnd.EvolutionXP.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Juan_David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan_David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan_David\\OneDrive\\Escritorio\\PruebaEvolutioXP\\BackEnd\\EvolutionXP\\BackEnd.EvolutionXP.Entities\\BackEnd.EvolutionXP.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

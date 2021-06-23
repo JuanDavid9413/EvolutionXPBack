@@ -1,0 +1,14 @@
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.deps.json
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.csprojAssemblyReference.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.AssemblyInfoInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.AssemblyInfo.cs
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Entities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\bin\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Utilities.pdb
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.csproj.CopyComplete
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.dll
+C:\Users\Juan_David\OneDrive\Escritorio\PruebaEvolutioXP\BackEnd\EvolutionXP\BackEnd.EvolutionXP.Repository\obj\Debug\netcoreapp3.1\BackEnd.EvolutionXP.Repository.pdb
